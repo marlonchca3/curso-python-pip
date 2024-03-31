@@ -1,0 +1,5 @@
+2024-03-26 23:30:00.092 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/peter/.bashrc","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-03-26 23:30:00.303 [info] Started local extension host with pid 2224.
+2024-03-26 23:30:00.420 [info] Started initializing default profile extensions in extensions installation folder. file:///home/peter/.vscode/extensions
+2024-03-26 23:30:01.046 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/peter/.vscode/extensions
+2024-03-26 23:30:03.468 [info] [perf] Render performance baseline is 30ms
